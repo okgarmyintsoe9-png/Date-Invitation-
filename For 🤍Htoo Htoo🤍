@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invitation to Date</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 30px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #6a5acd;
+        }
+        p {
+            font-size: 18px;
+            text-align: center;
+            line-height: 1.6;
+        }
+        .button {
+            display: block;
+            width: 200px;
+            margin: 30px auto;
+            padding: 10px 20px;
+            background-color: #6a5acd;
+            color: #fff;
+            text-align: center;
+            font-size: 18px;
+            border-radius: 25px;
+            text-decoration: none;
+        }
+        .button:hover {
+            background-color: #483d8b;
+        }
+        .footer {
+            text-align: center;
+            font-size: 14px;
+            color: #aaa;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>🌹 A Special Invitation 🌹</h1>
+        <p>
+            Hi Htoo Htoo,<br>
+            I hope you're doing well! I've been thinking about how amazing it would be to spend some time together. I was wondering if you'd like to join me for a special date! 😊
+        </p>
+        <p>
+            Whether it's a walk in the park, grabbing a coffee, or just enjoying a nice conversation, I think it would be wonderful to get to know each other better. What do you think?
+        </p>
+        <a href="mailto:okgarmyintsoe9@gmail.com" class="button">Say Yes! 💌</a>
+    </div>
+
+    <div class="footer">
+        <p>Created with ❤️ by Ramos</p>
+    </div>
+
+</body>
+</html>
